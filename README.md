@@ -11,7 +11,7 @@ before running the project make sure android emulator or ios emulator it's runni
 in the project directory> npm run android or ios
 ----------------------------------------------------
 Screenshots
-
+----------------------------
 ![FoodDeliveryHome](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/74e16078-7161-4df8-ab92-2d6518379763)
 ![FoodRestaurant](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/493f4ea8-e12b-4e77-b418-ee7dff01abd2)
 ![FoodBasket](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/8a24e0a7-9837-49e3-bdd4-7b611d52e2af)
