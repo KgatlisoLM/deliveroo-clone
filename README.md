@@ -1,9 +1,7 @@
 Before cloning and running project make sure you have:
 
 Node.js installed 
-------------------
 Android Studio
------------------
 VS Code
 -----------------------------------------------------------------------
 before running the project make sure android emulator or ios emulator it's running.
