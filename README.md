@@ -10,8 +10,9 @@ in the project directory> npm run android or ios
 ----------------------------------------------------
 Screenshots
 ----------------------------
-![FoodDeliveryHome](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/74e16078-7161-4df8-ab92-2d6518379763)
-![FoodRestaurant](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/493f4ea8-e12b-4e77-b418-ee7dff01abd2)
-![FoodBasket](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/8a24e0a7-9837-49e3-bdd4-7b611d52e2af)
-![FoodLoadingOrder](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/375708ee-e3f6-4d5b-9d82-a767f0f729b7)
-![FoodLocation](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/f75ced5f-54d7-40bc-9fa2-f1638e2409d5)
+
+![FoodDeliveryHome](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/174e6bee-a0ec-4ed3-8e71-a71d2d3d91d1)
+![FoodRestaurant](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/1527d0cc-bd08-41fa-97e8-6828ec9a9b2f)
+![FoodBasket](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/cd8df6e4-ecb4-487f-9132-4da61dc5291f)
+![FoodLoadingOrder](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/3fc19dc4-fa5e-4523-a2ee-97a51a1f94e8)
+![FoodLocation](https://github.com/KgatlisoLM/deliveroo-clone/assets/39485154/29db920c-461f-4adc-b03e-71b0b9c66453)
